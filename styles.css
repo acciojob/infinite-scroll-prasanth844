@@ -14,3 +14,7 @@ li {
 li:hover {
   background: #ccc;
 }
+body {
+    min-height: 100vh;
+}
+
